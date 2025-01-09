@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 first line from the branch stage
 second line from the stage
+first line
+second line
+third line
+>>>>>>> development
